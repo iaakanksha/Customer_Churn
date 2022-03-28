@@ -11,7 +11,11 @@ The customer churning model is developed as an attempt to predict the customer c
 
 ## Demo
 
+
+```bash
 https://customer-churn-predictor1.herokuapp.com/
+
+```
 
 
 ## 🚀 About Me
@@ -21,7 +25,7 @@ Student | Programmer | Learner
 
 I'm a Machine Learning Enthusiast and a Disciplined Coder.. Trying my hand on Deep Learning, OpenCV, Data Analysis and much more...
 
-Feedback
+
 
 
 ## Feedback
