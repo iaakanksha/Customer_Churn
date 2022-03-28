@@ -1,7 +1,6 @@
+<h1 align="center">Customer Churn Prediction </h1>
 
-# Customer Churn Prediction
-
-![5fbd9526-dbfb-4be0-be29-bad6389ed248-thumb](https://user-images.githubusercontent.com/69616742/160441338-56b1677d-d277-438b-8ada-ff51ed7733ff.jpg)
+ ![5fbd9526-dbfb-4be0-be29-bad6389ed248-thumb](https://user-images.githubusercontent.com/69616742/160441338-56b1677d-d277-438b-8ada-ff51ed7733ff.jpg)
 
 The customer churning model is developed as an attempt to predict the customer churning rate of an anonymous bank. The system is a web application that can be accessed and effectively used by the authorized / responsible person of organization. The system provides the facility of viewing both the prediction and the detailed analysis of the data. It also includes a Analysis section where the user can visualize the analysis of data in interactive mode which will help user to understand the data more efficiently. This project is developed with HTML along with CSS for designing the frontend, data is fetched from MySQL database, a strong Machine Learning algorithm is used to build the logic and deployed over Heroku cloud platform.
 
